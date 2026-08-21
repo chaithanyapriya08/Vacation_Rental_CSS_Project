@@ -237,7 +237,6 @@ header {
 }
 
 .info-card {
-    /* width: 22%; */
     width: auto;
     min-width: 220px;
     background-color: white;
