@@ -140,7 +140,8 @@ header {
     background-color: #9876549e;
     padding: 10px 30px;
     box-shadow: 0 5px 30px rgba(0, 0, 0, 0.074);
-    height: 230px;
+    /* height: 230px; */
+    height: auto;
     width: 80%;
     display: flex;
     flex-direction: row;
@@ -215,7 +216,7 @@ header {
 
 .service-card {
     width: 30%;
-    height: 450px;
+    height: auto;
     min-width: 250px;
     padding: 30px 20px;
     margin: 25px;
