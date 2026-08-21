@@ -65,7 +65,7 @@ header {
         linear-gradient(
             rgba(0, 0, 0, 0.45),
             rgba(0, 0, 0, 0.45)),
-        url("images/service-bg.avif");
+        url("./images/service-bg.avif");
 
     background-size: cover;
     background-position: center;

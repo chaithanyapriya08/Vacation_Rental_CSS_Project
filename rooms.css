@@ -67,7 +67,7 @@ color: #333;
         linear-gradient(
             rgba(0, 0, 0, 0.45),
             rgba(0, 0, 0, 0.45)),
-        url("images/room-bg.avif");
+        url("./images/room-bg.avif");
     background-size: cover;
     background-position: center;
 }
